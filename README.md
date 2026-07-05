@@ -1,102 +1,145 @@
 <h1 align="center">Hi 👋, I'm Jishu Kumar</h1>
 
-<h3 align="center">AI & Machine Learning Student | Python Developer | Future AI Engineer</h3>
+<h3 align="center">
+AI & Machine Learning Student | Python Developer | Future AI Engineer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Student;Python+Developer;Computer+Vision+Enthusiast;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Student;Python+Developer;Computer+Vision+Enthusiast;Always+Learning+New+Things+🚀"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 B.E. CSE (AI & ML)
-- 💻 Passionate about AI, Machine Learning & Python
-- 🌱 Currently learning:
-  - Data Structures & Algorithms
-  - Machine Learning
-  - Deep Learning
-  - Computer Vision
-  - Git & GitHub
-- 🎯 Goal: Become an AI Engineer and build impactful real-world projects.
+🎓 **B.E. CSE (AI & ML)**
+
+💻 Passionate about **Artificial Intelligence, Machine Learning and Python**
+
+🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Git & GitHub
+
+🎯 **Goal**
+
+Become an AI Engineer and contribute to impactful real-world projects.
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
-### Languages
+### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+</p>
 
 ### AI / ML
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<p>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p>
 
----
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-## 📊 GitHub Statistics
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jishukumar&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jishukumar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jishukumar&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jishukumar&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jishukumar&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jishukumar&theme=algolia&no-frame=true&margin-w=10"/>
+
+<img src="https://streak-stats.demolab.com?user=jishukumar&theme=github-dark-blue&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jishukumar&theme=tokyo-night"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=jishukumar&theme=onedark&no-frame=true&row=1&column=6"/>
+
 </p>
 
 ---
 
-## 📌 Featured Projects
-
-- 🤖 AI Image Classification
-- 👁️ Face Detection using OpenCV
-- 📊 Machine Learning Projects
-- 🐍 Python Automation Scripts
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://github.com/jishukumar)
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto: jishu6120@gmail.com)
-
----
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jishukumar&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jishukumar&theme=github-dark"/>
+
 </p>
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my GitHub Profile ⭐</h3>
+# 📌 Featured Projects
+
+🚀 AI Image Classification
+
+👁️ Face Detection using OpenCV
+
+📊 Machine Learning Projects
+
+🐍 Python Automation Scripts
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jishu6120@gmail.com)
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=jishukumar&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my GitHub Profile ⭐
+
+</h3>
