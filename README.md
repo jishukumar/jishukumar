@@ -50,7 +50,7 @@ A browser-based AI agent application that helps Indian product sellers expand in
 </tr>
 </table>
 
-> *Add more project cards here as you ship new work — happy to help write them up when you have details.*
+> 
 
 ---
 
@@ -63,8 +63,7 @@ A browser-based AI agent application that helps Indian product sellers expand in
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
-> *Update this list with the frameworks/tools you actually use day-to-day (React? Node? a specific ML stack?) — I kept it minimal since I only know Python/JS + the Anthropic API from BizBridge.*
-
+> 
 ---
 
 ### 📈 GitHub Stats
